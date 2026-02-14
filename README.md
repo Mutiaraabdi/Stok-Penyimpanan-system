@@ -14,3 +14,4 @@ Setelah itu jika pengguna memilih opsi "Tambah barang", akan ditampilan halaman 
 
 Jika stok barang berhasil ditambahkan, daftarnya akan tampil di tabel yang ada pada halaman utama.
 
+Cara mengakses web yaitu buka browser dan ketik alamat berikut: http://localhost/stokku/index.php

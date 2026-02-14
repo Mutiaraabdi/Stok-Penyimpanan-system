@@ -8,7 +8,7 @@ Saat dijalankan akan ditampilkan halaman utama yang dapat menambahkan atau menge
 
 
 
-Setelah itu jika pengguna memilih opsi "Tambah barang", akan ditampilan halaman baru untuk menambah stok barang seperti pada gambar berikut:
+Setelah itu jika pengguna memilih opsi "Tambah barang", akan ditampilkan halaman baru untuk menambah stok barang seperti pada gambar berikut:
 
 <img width="1826" height="997" alt="Halaman Tambah" src="https://github.com/user-attachments/assets/429987e5-b4b5-452a-b37a-4e9d93847923" />
 
